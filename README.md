@@ -11,3 +11,5 @@ offer better computational capabilities compared to their static counterparts.
 
 [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
 ](https://arxiv.org/abs/1712.05877) (Jacob et al. 2018)
+
+[Convolutional Networks with Adaptive Inference Graphs] (https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
