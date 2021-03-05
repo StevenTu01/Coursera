@@ -15,3 +15,5 @@ offer better computational capabilities compared to their static counterparts.
 [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
 
 [Learning Dynamic Routing for Semantic Segmentation](https://arxiv.org/abs/2003.10401) (Yanwei et al. 2020)
+
+[CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxiv.org/abs/1904.04971) (Brandon et al. 2019)
