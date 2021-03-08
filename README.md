@@ -17,3 +17,5 @@ offer better computational capabilities compared to their static counterparts.
 [Learning Dynamic Routing for Semantic Segmentation](https://arxiv.org/abs/2003.10401) (Yanwei et al. 2020)
 
 [CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxiv.org/abs/1904.04971) (Brandon et al. 2019)
+
+[SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485) (Wang et al.2017)
