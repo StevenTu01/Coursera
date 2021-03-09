@@ -18,4 +18,6 @@ offer better computational capabilities compared to their static counterparts.
 
 [CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxiv.org/abs/1904.04971) (Brandon et al. 2019)
 
-[SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485) (Wang et al.2017)
+[SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485) (Wang et al. 2017)
+
+[Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/abs/2005.07496) (Joakim et al. 2020)
