@@ -21,3 +21,5 @@ offer better computational capabilities compared to their static counterparts.
 [SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485) (Wang et al. 2017)
 
 [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/abs/2005.07496) (Joakim et al. 2020)
+
+[Dynamic Neural Networks: An Overview](https://ieeexplore.ieee.org/document/854201) (Sinha & Gupta, 2000)
