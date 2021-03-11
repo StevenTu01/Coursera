@@ -9,18 +9,22 @@ offer better computational capabilities compared to their static counterparts.
 
 [Dynamic Neural Networks: A Survey](https://arxiv.org/pdf/2102.04906.pdf) (Yizeng et al. 2021)
 
+[Dynamic Neural Networks: An Overview](https://ieeexplore.ieee.org/document/854201) (Sinha & Gupta, 2000)
+
+### adaptive inference method
+[Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
+
 ### efficiency of Dynamic Neural Network
 [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
 ](https://arxiv.org/abs/1712.05877) (Jacob et al. 2018)
 
-[Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
+[CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxiv.org/abs/1904.04971) (Brandon et al. 2019)
+
+### compatibility
 
 [Learning Dynamic Routing for Semantic Segmentation](https://arxiv.org/abs/2003.10401) (Yanwei et al. 2020)
-
-[CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxiv.org/abs/1904.04971) (Brandon et al. 2019)
 
 [SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485) (Wang et al. 2017)
 
 [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/abs/2005.07496) (Joakim et al. 2020)
 
-[Dynamic Neural Networks: An Overview](https://ieeexplore.ieee.org/document/854201) (Sinha & Gupta, 2000)
