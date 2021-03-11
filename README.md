@@ -41,11 +41,15 @@ offer better computational capabilities compared to their static counterparts.
 
 [Multi-scale dense networks for resource efficient image classification](https://arxiv.org/abs/1703.09844) [Gao et al. 2017]
 
+[Depth-Adaptive Transformer](https://arxiv.org/abs/1910.10073) [Maha et al.2020]
+
 ### Efficiency of Dynamic Neural Network
 
 [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877) (Jacob et al. 2018)
 
 [CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxiv.org/abs/1904.04971) (Brandon et al. 2019)
+
+[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) (Nitish et al. 2014)
 
 ### Compatibility
 
@@ -58,5 +62,14 @@ offer better computational capabilities compared to their static counterparts.
 [Streaming Graph Neural Networks](https://arxiv.org/abs/1810.10627) (Yao et al. 2018)
 
 [Predicting dynamic embedding trajectory in temporal interaction networks](https://arxiv.org/abs/1908.01207) (Srijan et al.2019)
+
+### Dynamic neural network with CNN
+[ELASTIC: Improving CNNs with Dynamic Scaling Policies](https://arxiv.org/abs/1812.05262) [Huiyu et al. 2018]
+
+[Language Modeling with Gated Convolutional Networks](http://proceedings.mlr.press/v70/dauphin17a/dauphin17a.pdf) [Yann et al. 2017]
+
+### Dynamic neural network with CV
+
+[Dynamic computational time for visual attention](https://arxiv.org/abs/1703.10332) (Zhichao et al.2017)
 
 
