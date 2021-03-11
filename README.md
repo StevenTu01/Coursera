@@ -21,6 +21,10 @@ offer better computational capabilities compared to their static counterparts.
 
 [Toward an interoperable dynamic network analysis toolkit](https://www.sciencedirect.com/science/article/abs/pii/S0167923606000601) (Kathleen et al. 2007)
 
+[A deep learning approach to link prediction in dynamic networks](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.33) (Xiaoyi et al. 2014)
+
+[Deciding how to decide: Dynamic routing in artificial neural networks](https://arxiv.org/abs/1703.06217) (Mason & Pertro, 2017)
+
 ### Adaptive inference method
 
 [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
@@ -45,6 +49,10 @@ offer better computational capabilities compared to their static counterparts.
 
 [Depth-Adaptive Transformer](https://arxiv.org/abs/1910.10073) [Maha et al.2020]
 
+[Channel gating neural networks](https://arxiv.org/abs/1805.12549) [Weizhe et al. 2019]
+
+[Branchynet: Fast inference via early exiting from deep neural networks](https://arxiv.org/abs/1709.01686) [Surat et al. 2017]
+
 ### Efficiency of Dynamic Neural Network
 
 [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877) (Jacob et al. 2018)
@@ -59,6 +67,8 @@ offer better computational capabilities compared to their static counterparts.
 
 [SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485) (Wang et al. 2017)
 
+[Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.1.131) (Jurgen, 1992)
+
 ### Dynamic neural network with GNN
 
 [Streaming Graph Neural Networks](https://arxiv.org/abs/1810.10627) (Yao et al. 2018)
@@ -66,6 +76,8 @@ offer better computational capabilities compared to their static counterparts.
 [Predicting dynamic embedding trajectory in temporal interaction networks](https://arxiv.org/abs/1908.01207) (Srijan et al.2019)
 
 [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434) (Jie et al. 2019)
+
+[Semi-supervised classification with graph convolutional networks](https://arxiv.org/abs/1609.02907) (Thomas & Max, 2017)
 
 ### Dynamic neural network with CNN
 [ELASTIC: Improving CNNs with Dynamic Scaling Policies](https://arxiv.org/abs/1812.05262) [Huiyu et al. 2018]
@@ -76,8 +88,17 @@ offer better computational capabilities compared to their static counterparts.
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) [Kaiming et al. 2016]
 
+[A Deep Learning Framework for Dynamic Network Link Prediction](https://arxiv.org/abs/1902.08329) [Jinyin et al.2019]
+
+[Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale
+Dependent Pooling and Cascaded Rejection Classifiers](http://users.umiacs.umd.edu/~fyang/papers/cvpr16.pdf) [Fan et al. 2020]
+
+[Dynamic convolution: Attention over convolution kernels](https://arxiv.org/abs/1912.03458) (Yinpeng et al. 2020)
+
 ### Dynamic neural network with CV
 
 [Dynamic computational time for visual attention](https://arxiv.org/abs/1703.10332) (Zhichao et al.2017)
+
+
 
 
