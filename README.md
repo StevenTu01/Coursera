@@ -19,6 +19,8 @@ offer better computational capabilities compared to their static counterparts.
 
 [Community Discovery in Dynamic Networks: A Survey](https://arxiv.org/abs/1707.03186) (Giulio & Remy, 2017)
 
+[Toward an interoperable dynamic network analysis toolkit](https://www.sciencedirect.com/science/article/abs/pii/S0167923606000601) (Kathleen et al. 2007)
+
 ### Adaptive inference method
 
 [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
@@ -63,10 +65,16 @@ offer better computational capabilities compared to their static counterparts.
 
 [Predicting dynamic embedding trajectory in temporal interaction networks](https://arxiv.org/abs/1908.01207) (Srijan et al.2019)
 
+[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434) (Jie et al. 2019)
+
 ### Dynamic neural network with CNN
 [ELASTIC: Improving CNNs with Dynamic Scaling Policies](https://arxiv.org/abs/1812.05262) [Huiyu et al. 2018]
 
 [Language Modeling with Gated Convolutional Networks](http://proceedings.mlr.press/v70/dauphin17a/dauphin17a.pdf) [Yann et al. 2017]
+
+[Long Short-Term Memory](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1997.9.8.1735) [Sepp, 1997]
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) [Kaiming et al. 2016]
 
 ### Dynamic neural network with CV
 
