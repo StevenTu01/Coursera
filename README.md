@@ -9,6 +9,7 @@ offer better computational capabilities compared to their static counterparts.
 
 [Dynamic Neural Networks: A Survey](https://arxiv.org/pdf/2102.04906.pdf) (Yizeng et al. 2021)
 
+### efficiency of Dynamic Neural Network
 [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
 ](https://arxiv.org/abs/1712.05877) (Jacob et al. 2018)
 
