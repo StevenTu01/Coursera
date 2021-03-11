@@ -12,15 +12,16 @@ offer better computational capabilities compared to their static counterparts.
 [Dynamic Neural Networks: An Overview](https://ieeexplore.ieee.org/document/854201) (Sinha & Gupta, 2000)
 
 ### adaptive inference method
+
 [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
 
-### efficiency of Dynamic Neural Network
-[Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
-](https://arxiv.org/abs/1712.05877) (Jacob et al. 2018)
+### Efficiency of Dynamic Neural Network
+
+[Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877) (Jacob et al. 2018)
 
 [CondConv: Conditionally Parameterized Convolutions for Efficient Inference](https://arxiv.org/abs/1904.04971) (Brandon et al. 2019)
 
-### compatibility
+### Compatibility
 
 [Learning Dynamic Routing for Semantic Segmentation](https://arxiv.org/abs/2003.10401) (Yanwei et al. 2020)
 
