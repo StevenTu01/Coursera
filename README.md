@@ -88,12 +88,14 @@ offer better computational capabilities compared to their static counterparts.
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) [Kaiming et al. 2016]
 
-[A Deep Learning Framework for Dynamic Network Link Prediction](https://arxiv.org/abs/1902.08329) [Jinyin et al.2019]
+[A Deep Learning Framework for Dynamic Network Link Prediction](https://arxiv.org/abs/1902.08329) [Jinyin et al.2019]·
 
 [Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale
 Dependent Pooling and Cascaded Rejection Classifiers](http://users.umiacs.umd.edu/~fyang/papers/cvpr16.pdf) [Fan et al. 2020]
 
 [Dynamic convolution: Attention over convolution kernels](https://arxiv.org/abs/1912.03458) (Yinpeng et al. 2020)
+
+[DyNet: Dynamic Convolution for Accelerating Convolutional Neural Networks](https://arxiv.org/abs/2004.10694) (Yikang et al. 2020)
 
 ### Dynamic neural network with CV
 
