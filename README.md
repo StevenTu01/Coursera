@@ -53,6 +53,8 @@ offer better computational capabilities compared to their static counterparts.
 
 [Branchynet: Fast inference via early exiting from deep neural networks](https://arxiv.org/abs/1709.01686) [Surat et al. 2017]
 
+[Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547) [Jeongtae et al. 2018]
+
 ### Efficiency of Dynamic Neural Network
 
 [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877) (Jacob et al. 2018)
