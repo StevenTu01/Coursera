@@ -25,6 +25,8 @@ offer better computational capabilities compared to their static counterparts.
 
 [Deciding how to decide: Dynamic routing in artificial neural networks](https://arxiv.org/abs/1703.06217) (Mason & Pertro, 2017)
 
+[Community Discovery in Dynamic Networks: a Survey](https://arxiv.org/abs/1707.03186) (Giulio & Remy)
+
 ### Adaptive inference method
 
 [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
