@@ -27,6 +27,8 @@ offer better computational capabilities compared to their static counterparts.
 
 [Community Discovery in Dynamic Networks: a Survey](https://arxiv.org/abs/1707.03186) (Giulio & Remy)
 
+[An introduction to domain adaptation and transfer learning](https://arxiv.org/abs/1812.11806) (Wouter & Marco, 2019)
+
 ### Adaptive inference method
 
 [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
