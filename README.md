@@ -29,6 +29,8 @@ offer better computational capabilities compared to their static counterparts.
 
 [An introduction to domain adaptation and transfer learning](https://arxiv.org/abs/1812.11806) (Wouter & Marco, 2019)
 
+[DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/pdf/1701.03980.pdf) 
+
 ### Adaptive inference method
 
 [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503) (Veit & Belongie, 2018)
